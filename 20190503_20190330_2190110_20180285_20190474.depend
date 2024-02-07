@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654030994 source:e:\fcai\my projects\c++\level3\graphic\projectgraphicswinapiversion3\main.cpp
+	<vector>
+	<fstream>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<climits>
+	<list>
+	<stack>
+
